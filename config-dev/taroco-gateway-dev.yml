@@ -4,7 +4,7 @@ spring:
   redis:
     host: ${base.redis.host}
     port: ${base.redis.port}
-    password: ${base.redis.password}
+#    password: ${base.redis.password}
     database: 0
 
 # 路由配置
